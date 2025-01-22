@@ -266,6 +266,7 @@ footer .container {
     margin: auto 100px;
     text-align: left;
     padding-top: 25px;
+    padding-bottom: 15px;
 }
 footer .container .logo {
     width: 50px;
